@@ -1,0 +1,10 @@
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\bin\Debug\netcoreapp2.1\INFRA.deps.json
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\bin\Debug\netcoreapp2.1\INFRA.dll
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\obj\Debug\netcoreapp2.1\INFRA.csprojAssemblyReference.cache
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\obj\Debug\netcoreapp2.1\INFRA.csproj.CoreCompileInputs.cache
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\obj\Debug\netcoreapp2.1\INFRA.AssemblyInfoInputs.cache
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\obj\Debug\netcoreapp2.1\INFRA.AssemblyInfo.cs
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\bin\Debug\netcoreapp2.1\INFRA.runtimeconfig.json
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\bin\Debug\netcoreapp2.1\INFRA.runtimeconfig.dev.json
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\bin\Debug\netcoreapp2.1\COMMON.dll
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\bin\Debug\netcoreapp2.1\CORE.dll

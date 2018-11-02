@@ -1,0 +1,8 @@
+C:\Users\KhanhHQ\source\repos\WebAPI\SERVICE\bin\Debug\netcoreapp2.1\SERVICE.deps.json
+C:\Users\KhanhHQ\source\repos\WebAPI\SERVICE\bin\Debug\netcoreapp2.1\SERVICE.dll
+C:\Users\KhanhHQ\source\repos\WebAPI\SERVICE\obj\Debug\netcoreapp2.1\SERVICE.csproj.CoreCompileInputs.cache
+C:\Users\KhanhHQ\source\repos\WebAPI\SERVICE\obj\Debug\netcoreapp2.1\SERVICE.AssemblyInfoInputs.cache
+C:\Users\KhanhHQ\source\repos\WebAPI\SERVICE\obj\Debug\netcoreapp2.1\SERVICE.AssemblyInfo.cs
+C:\Users\KhanhHQ\source\repos\WebAPI\SERVICE\obj\Debug\netcoreapp2.1\SERVICE.csprojAssemblyReference.cache
+C:\Users\KhanhHQ\source\repos\WebAPI\SERVICE\bin\Debug\netcoreapp2.1\SERVICE.runtimeconfig.json
+C:\Users\KhanhHQ\source\repos\WebAPI\SERVICE\bin\Debug\netcoreapp2.1\SERVICE.runtimeconfig.dev.json
