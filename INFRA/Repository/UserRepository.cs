@@ -1,5 +1,6 @@
 ﻿using CORE.Models;
 using INFRA.Infrastructure;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,9 +14,9 @@ namespace INFRA.Repository
 
         public IEnumerable<User> GetAll(string username)
         {
-            var users = from user in this.DbContext.Users
-                        where user.Username.Contains(username)
-                        select user;
+            var users = this.DbContext.Users.Where(u => u.Username == username)
+                .Include(u => u.Role)
+                .Include(u => u.School);
             return users;
         }
 
@@ -26,11 +27,36 @@ namespace INFRA.Repository
             this.DbContext.Entry(user).Reference(u => u.School).Load();
             return user;
         }
+
+        public override IEnumerable<User> GetAll()
+        {
+            var users = this.DbContext.Users
+                .Include(u => u.Role)
+                .Include(u => u.School);
+            return users;
+        }
+
+        public override User GetById(int id)
+        {
+            var user = this.DbContext.Users.Where(u => u.Id == id)
+                .Include(u => u.Role)
+                .Include(u => u.School).FirstOrDefault();
+            return user;
+        }
+
+        public User GetByUsername(string username)
+        {
+            var user = this.DbContext.Users.Where(u => u.Username == username)
+                .Include(u => u.Role)
+                .Include(u => u.School).FirstOrDefault();
+            return user;
+        }
     }
 
     public interface IUserRepository : IRepository<User>
     {
         User Login(string username, string password);
         IEnumerable<User> GetAll(string username);
+        User GetByUsername(string username);
     }
 }
