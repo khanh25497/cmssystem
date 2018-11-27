@@ -1,0 +1,10 @@
+C:\Users\KhanhHQ\source\repos\WebAPI\COMMON\bin\Debug\netcoreapp2.0\COMMON.deps.json
+C:\Users\KhanhHQ\source\repos\WebAPI\COMMON\bin\Debug\netcoreapp2.0\COMMON.runtimeconfig.json
+C:\Users\KhanhHQ\source\repos\WebAPI\COMMON\bin\Debug\netcoreapp2.0\COMMON.runtimeconfig.dev.json
+C:\Users\KhanhHQ\source\repos\WebAPI\COMMON\bin\Debug\netcoreapp2.0\COMMON.dll
+C:\Users\KhanhHQ\source\repos\WebAPI\COMMON\bin\Debug\netcoreapp2.0\COMMON.pdb
+C:\Users\KhanhHQ\source\repos\WebAPI\COMMON\obj\Debug\netcoreapp2.0\COMMON.csproj.CoreCompileInputs.cache
+C:\Users\KhanhHQ\source\repos\WebAPI\COMMON\obj\Debug\netcoreapp2.0\COMMON.AssemblyInfoInputs.cache
+C:\Users\KhanhHQ\source\repos\WebAPI\COMMON\obj\Debug\netcoreapp2.0\COMMON.AssemblyInfo.cs
+C:\Users\KhanhHQ\source\repos\WebAPI\COMMON\obj\Debug\netcoreapp2.0\COMMON.dll
+C:\Users\KhanhHQ\source\repos\WebAPI\COMMON\obj\Debug\netcoreapp2.0\COMMON.pdb

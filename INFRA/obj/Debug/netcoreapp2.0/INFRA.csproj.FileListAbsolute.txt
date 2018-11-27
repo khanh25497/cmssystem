@@ -1,0 +1,16 @@
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\bin\Debug\netcoreapp2.0\INFRA.deps.json
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\bin\Debug\netcoreapp2.0\INFRA.runtimeconfig.json
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\bin\Debug\netcoreapp2.0\INFRA.runtimeconfig.dev.json
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\bin\Debug\netcoreapp2.0\INFRA.dll
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\bin\Debug\netcoreapp2.0\INFRA.pdb
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\bin\Debug\netcoreapp2.0\COMMON.dll
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\bin\Debug\netcoreapp2.0\CORE.dll
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\bin\Debug\netcoreapp2.0\COMMON.pdb
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\bin\Debug\netcoreapp2.0\CORE.pdb
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\obj\Debug\netcoreapp2.0\INFRA.csprojAssemblyReference.cache
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\obj\Debug\netcoreapp2.0\INFRA.csproj.CoreCompileInputs.cache
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\obj\Debug\netcoreapp2.0\INFRA.AssemblyInfoInputs.cache
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\obj\Debug\netcoreapp2.0\INFRA.AssemblyInfo.cs
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\obj\Debug\netcoreapp2.0\INFRA.csproj.CopyComplete
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\obj\Debug\netcoreapp2.0\INFRA.dll
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\obj\Debug\netcoreapp2.0\INFRA.pdb

@@ -6,7 +6,7 @@ using System.Text;
 
 namespace INFRA.Infrastructure
 {
-    class DbFactory : Disposable, IDbFactory
+    public class DbFactory : Disposable, IDbFactory
     {
         DbEntities dbContext;
 

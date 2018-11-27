@@ -8,3 +8,9 @@ C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\bin\Debug\netcoreapp2.1\INFRA.runtime
 C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\bin\Debug\netcoreapp2.1\INFRA.runtimeconfig.dev.json
 C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\bin\Debug\netcoreapp2.1\COMMON.dll
 C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\bin\Debug\netcoreapp2.1\CORE.dll
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\bin\Debug\netcoreapp2.1\INFRA.pdb
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\bin\Debug\netcoreapp2.1\COMMON.pdb
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\bin\Debug\netcoreapp2.1\CORE.pdb
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\obj\Debug\netcoreapp2.1\INFRA.csproj.CopyComplete
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\obj\Debug\netcoreapp2.1\INFRA.dll
+C:\Users\KhanhHQ\source\repos\WebAPI\INFRA\obj\Debug\netcoreapp2.1\INFRA.pdb

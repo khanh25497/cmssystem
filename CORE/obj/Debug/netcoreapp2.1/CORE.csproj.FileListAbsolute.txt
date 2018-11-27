@@ -6,3 +6,6 @@ C:\Users\KhanhHQ\source\repos\WebAPI\CORE\obj\Debug\netcoreapp2.1\CORE.AssemblyI
 C:\Users\KhanhHQ\source\repos\WebAPI\CORE\obj\Debug\netcoreapp2.1\CORE.AssemblyInfo.cs
 C:\Users\KhanhHQ\source\repos\WebAPI\CORE\bin\Debug\netcoreapp2.1\CORE.runtimeconfig.json
 C:\Users\KhanhHQ\source\repos\WebAPI\CORE\bin\Debug\netcoreapp2.1\CORE.runtimeconfig.dev.json
+C:\Users\KhanhHQ\source\repos\WebAPI\CORE\bin\Debug\netcoreapp2.1\CORE.pdb
+C:\Users\KhanhHQ\source\repos\WebAPI\CORE\obj\Debug\netcoreapp2.1\CORE.dll
+C:\Users\KhanhHQ\source\repos\WebAPI\CORE\obj\Debug\netcoreapp2.1\CORE.pdb
